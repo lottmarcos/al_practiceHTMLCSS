@@ -9,4 +9,4 @@ All ofthe stylization that was used in the project.
 
 <hr>
 
-![Banner](https://user-images.githubusercontent.com/84547699/200953186-62d684b6-1c13-4bde-b3aa-17c5eba4f4bf.png)
+![banner](https://user-images.githubusercontent.com/84547699/200953328-bfb28c06-947f-46ea-9fc3-ee865bb0362a.png)
